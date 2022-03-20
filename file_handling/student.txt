@@ -1,0 +1,3 @@
+75	vandit	ahmedabad	ec
+72	daxal	ahmedabad	ec
+99	purvansh	ahmedabad	ec
